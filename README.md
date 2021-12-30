@@ -1,2 +1,3 @@
 # rsschool-cv
-https://Zhenya15.io/rsschool-cv/cv
+
+https://Zhenya15.github.io/rsschool-cv/
