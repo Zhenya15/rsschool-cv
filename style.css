@@ -26,4 +26,54 @@
     font-size: 20px;
     color:rgb(231, 17, 9);
 }
+a { 
+    color: rgb(250, 21, 21);
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+.main { 
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    min-width: 460px;
+    background: black;
+    color: rgb(400, 400, 400);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contact_main { 
+    border: 2px solid black;
+    color: rgb(250, 36, 21);
+    background: black;
+    padding-left: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.aboutme_main { 
+    border: 2px solid black;
+    color: rgb(250, 74, 21);
+    padding-left: 40px;
+    background: black;
+}
+.footer { 
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    height: 7.5%;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+.footeryear{ 
+    padding-left: 40px;
+} 
+.unfooter { 
+    display: flex;
+    }
+.foterrsschool { 
+    padding-top: 30px;
+}
+.footer_git1 { 
+    padding-top: 30px;
+    padding-right: 20px;
+}
