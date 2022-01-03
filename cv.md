@@ -1,4 +1,4 @@
-[rsschool-cv]("https://github.com/Zhenya15/rsschool-cv/”)
+[rsschool-cv]("https://github.com/Zhenya15”)
 *******
 # **Evgeniy Mushta** 
 
